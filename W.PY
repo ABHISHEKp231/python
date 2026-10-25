@@ -1,0 +1,5 @@
+n=input("sentance:")
+print(n.upper())
+print(n.lower())
+print(n.replace(" ","_"))
+print(n.strip())
